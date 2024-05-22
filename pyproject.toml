@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-ui-zh-chinese"
-description = ""
+description = "简体中文版界面"
 version = "1.0.0"
 license = "LICENSE"
 
